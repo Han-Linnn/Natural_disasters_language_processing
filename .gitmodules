@@ -1,0 +1,6 @@
+[submodule "data_processing"]
+	path = data_processing
+	url = https://github.com/Han-Linnn/data_processing.git
+[submodule "visualization"]
+	path = visualization
+	url = https://github.com/Han-Linnn/visualization.git
