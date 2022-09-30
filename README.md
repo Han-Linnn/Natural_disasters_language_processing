@@ -1,4 +1,4 @@
-# WSCBS2022
+# Natural Disasters Language Processing System
 [![DOI](https://zenodo.org/badge/498536259.svg)](https://zenodo.org/badge/latestdoi/498536259)
 
 ###
